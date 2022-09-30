@@ -1,5 +1,5 @@
 # Power-Ups
-UnsocialPotato/KR_M02_DV04
+https://unsocialpotato.github.io/Power-Ups/
 
 # Strategy
 
